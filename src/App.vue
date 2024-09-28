@@ -17,9 +17,9 @@
           </ul>
         </div>
       </div>
-      <div class="p-14 px-13 grid grid-cols-2">
+      <div class="p-14 px-13 pt-0 grid grid-cols-2">
         <div>
-          <h1 class="text-3xl font-bold">
+          <h1 class="text-3xl font-bold pt-20">
             Creating, Building, & Deploy <br />
             Your Website
           </h1>
@@ -30,6 +30,9 @@
           <a href="#" class="bg-white font-semibold text-sm px-6 py-2 rounded-full"
             >Learn More</a
           >
+        </div>
+        <div>
+          <img src="./assets/img/mainvector.png" class="block mx-auto" width="450" height="450" alt="">
         </div>
       </div>
     </div>
@@ -46,13 +49,14 @@
       </div>
     </div>
 
-    <div class="bg-gray-200 py-24 rounded-[5.5rem]">
+    <div class="bg-gray-200 py-24 pb-48 rounded-[5.5rem]">
+      <img src="./assets/img/perintilan/rocket-logo.png" alt="" class="block mx-auto mb-4" width="70" height="70">
       <h1 class="font-semibold text-4xl w-[50%] text-center block mx-auto">
         Crafting solutions with code, fueled by imagination.
       </h1>
       <div class="grid grid-cols-4 gap-10 border-t-[1px] border-gray-400 pt-14 mt-20 w-[80%] block mx-auto">
         <div>
-          <img class="mb-4" src="./assets/img/image 4.png" width="35" alt="" />
+          <img class="mb-4" src="./assets/img/perintilan/img1.png" width="35" alt="" />
           <h1 class="font-semibold text-sm w-[45%]">Full-Stack Web Development</h1>
           <h1 class="text-xs mt-3">
             Building robust and scalable web application from front-end to back-end,
@@ -60,7 +64,7 @@
           </h1>
         </div>
         <div>
-          <img class="mb-4" src="./assets/img/image 4.png" width="35" alt="" />
+          <img class="mb-4" src="./assets/img/perintilan/img2.png" width="35" alt="" />
           <h1 class="font-semibold text-sm">UI/UX Design</h1>
           <h1 class="text-xs mt-3">
             Designing intuitive and visually appealing interfaces that prioritize user
@@ -68,7 +72,7 @@
           </h1>
         </div>
         <div>
-          <img class="mb-4" src="./assets/img/image 4.png" width="35" alt="" />
+          <img class="mb-4" src="./assets/img/perintilan/img3.png" width="35" alt="" />
           <h1 class="font-semibold text-sm">Web Based Application</h1>
           <h1 class="text-xs mt-3">
             Creating responsive and dynamic web applications tailored to meet your
@@ -76,12 +80,38 @@
           </h1>
         </div>
         <div>
-          <img class="mb-4" src="./assets/img/image 4.png" width="35" alt="" />
+          <img class="mb-4" src="./assets/img/perintilan/img4.png" width="35" alt="" />
           <h1 class="font-semibold text-sm">Responsive Design</h1>
           <h1 class="text-xs mt-3">
             Crafting websites that look great and perform flawlessly on any device, from
             desktops to mobile phones, ensuring accessbility and ease to use.
           </h1>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="py-16 pb-0">
+      <img src="./assets/img/perintilan/eyes-emoji.png" alt="" class="block mx-auto mb-6" width="60" height="60">
+      <h1 class="text-center text-2xl font-bold">Have a vision? Let's make it a reality.</h1>
+      <h1 class="text-center text-l font-semibold my-3 mb-8">"Driven by creativity, commited to quality."</h1>
+      <div class="grid grid-cols-2 w-[25%] block mx-auto">
+        <div>
+          <button class="font-semibold bg-black text-white p-3 px-6 rounded-full block mx-auto">Email me</button>
+        </div>
+        <div>
+          <button class="font-semibold bg-[#D9D9D9] p-3 px-6 rounded-full block mx-auto">Whatsapp</button>
+        </div>
+      </div>
+      <div class="mt-[15%] px-16 pb-9">
+        <div class="grid grid-cols-2 border-t-[1.5px] border-[#9D9D9D] pt-9 pb-0">
+          <div>
+            <h1 class="text-sm ">Github/LinkedIn/Instagram</h1>
+          </div>
+          <div>
+            <h1 class="text-sm float-end">Theodhore - 2024 © All Right Reserved</h1>
+          </div>
         </div>
       </div>
     </div>

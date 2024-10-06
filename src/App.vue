@@ -215,7 +215,7 @@ export default {
     // Section 2
     headingSectionTwoAnimation(this.$refs.headingSectionTwo);
     sectionTwoToolsOneAnimation(this.$refs.sectionTwoImage1);
-    sectionTwoToolsOneAnimation(this.$refs.sectionTwoImage2, 10,6);
+    sectionTwoToolsOneAnimation(this.$refs.sectionTwoImage2);
   },
 };
 </script>

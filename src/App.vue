@@ -336,7 +336,7 @@
             :duration="960"
             :delay="150"
           >
-            Whatsapp
+            Whatsapps
           </button>
         </div>
       </div>

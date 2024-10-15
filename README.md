@@ -1,16 +1,16 @@
-# personal_website
 
-This template should help get you started developing with Vue 3 in Vite.
+# Personal Page + CMS Project
 
-## Recommended IDE Setup
+This is a personal webpage created using Vue.js, designed to introduce myself to the world. The page showcases various aspects of my skills and experiences, including the projects I've worked on, my competencies, and information about my background. With a modern and responsive design, this page aims to provide a pleasant and informative user experience.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Tech Stack
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+**Client:** Vue JS, VueUseMotion, TailwindCSS
 
-## Project Setup
+**Server:** Vite
+
+## Project Installation Setup
 
 ```sh
 npm install
@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+## Authors
+
+- [@theodhorex](https://www.github.com/theodhorex)
+
+
+## License
+
+[balAbal](https://youtube.com)

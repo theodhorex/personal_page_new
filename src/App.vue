@@ -14,7 +14,7 @@
         </div>
         <div>
           <ul class="flex justify-end space-x-2">
-            <li class="font-semibold text-xs">About Me</li>
+            <li class="font-semibold text-xs"><router-link to="/about">About</router-link></li>
             <li class="font-semibold text-xs">/</li>
             <li class="font-semibold text-xs">Projects</li>
             <li class="font-semibold text-xs">/</li>
@@ -300,15 +300,6 @@
       >
         Have a vision? Let's make it a reality.
       </h1>
-
-      <!-- <h1
-        class="text-center text-2xl font-bold"
-        v-motion-slide-visible-top
-        :duration="960"
-        :delay="200"
-      >
-        Have a vision? Let's make it a reality.
-      </h1> -->
       <h1
         class="text-center font-semibold text-lg sm:text-xl md:text-2xl lg:text-lg my-3 mb-8"
         v-motion-slide-visible-once-top
@@ -336,7 +327,7 @@
             :duration="960"
             :delay="150"
           >
-            Whatsapps
+            <a href="whatsapp://send?text=Hey Theodhore can help?&phone=+6285217441749">Whatsapp</a>
           </button>
         </div>
       </div>
@@ -351,7 +342,7 @@
               :duration="960"
               :delay="200"
             >
-              Github/LinkedIn/Instagram
+              <a href="https://github.com/theodhorex" target="__blank">Github</a>/LinkedIn/<a href="https://instagram.com/theodhoreee" target="__blank">Instagram</a>
             </h1>
           </div>
           <div>
